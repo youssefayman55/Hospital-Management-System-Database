@@ -182,7 +182,54 @@ The database includes realistic seed data:
 ### 1️⃣ Open SQL Server
 Start :contentReference[oaicite:1]{index=1}
 
-### 2️⃣ Create Database
-```sql
-CREATE DATABASE HospitalDB;
-USE HospitalDB;
+--- 
+
+### 2️⃣ Create Database : 
+
+  CREATE DATABASE HospitalDB;
+
+--- 
+
+3️⃣ Run Scripts
+
+Execute scripts in this order:
+
+  => Tables creation script
+  
+  => Stored procedures script
+  
+  => Triggers script
+  
+  =>  Views script
+  
+  =>  Insert data script
+  
+---
+
+🎯 Key Highlights : 
+
+  => Enterprise-level database design
+  
+  => Real hospital workflow simulation
+  
+  => Advanced SQL concepts (procedures, triggers, views)
+  
+  => Clean relational schema
+  
+  => Production-style database structure
+
+
+👨‍💻 Author   : Youssef Ayman
+  
+  Computer Science & Artificial Intelligence Engineer
+  
+  Specialized in Data Science, Backend Systems, and Database Design
+  
+
+
+
+
+
+
+
+  
